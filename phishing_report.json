@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "2026-03-02T06:38:34.543244",
+        "email_number": 1,
+        "sender": "no-reply@accounts.google.com",
+        "subject": "Security alert",
+        "rule_score": 0,
+        "ml_score": 28,
+        "ml_probability": 71.61,
+        "risk_score": 28,
+        "classification": "LOW RISK - Likely Safe",
+        "reasons": [
+            "ML phishing probability: 71.61%"
+        ]
+    },
+    {
+        "timestamp": "2026-03-02T06:38:34.543244",
+        "email_number": 2,
+        "sender": "no-reply@accounts.google.com",
+        "subject": "Security alert",
+        "rule_score": 0,
+        "ml_score": 28,
+        "ml_probability": 71.81,
+        "risk_score": 28,
+        "classification": "LOW RISK - Likely Safe",
+        "reasons": [
+            "ML phishing probability: 71.81%"
+        ]
+    },
+    {
+        "timestamp": "2026-03-02T06:38:34.543244",
+        "email_number": 3,
+        "sender": "no-reply@accounts.google.com",
+        "subject": "Security alert",
+        "rule_score": 0,
+        "ml_score": 28,
+        "ml_probability": 71.61,
+        "risk_score": 28,
+        "classification": "LOW RISK - Likely Safe",
+        "reasons": [
+            "ML phishing probability: 71.61%"
+        ]
+    },
+    {
+        "timestamp": "2026-03-02T06:38:34.543244",
+        "email_number": 4,
+        "sender": "no-reply@accounts.google.com",
+        "subject": "Security alert",
+        "rule_score": 0,
+        "ml_score": 28,
+        "ml_probability": 71.81,
+        "risk_score": 28,
+        "classification": "LOW RISK - Likely Safe",
+        "reasons": [
+            "ML phishing probability: 71.81%"
+        ]
+    },
+    {
+        "timestamp": "2026-03-02T06:38:34.543244",
+        "email_number": 5,
+        "sender": "no-reply@accounts.google.com",
+        "subject": "Security alert",
+        "rule_score": 0,
+        "ml_score": 28,
+        "ml_probability": 71.61,
+        "risk_score": 28,
+        "classification": "LOW RISK - Likely Safe",
+        "reasons": [
+            "ML phishing probability: 71.61%"
+        ]
+    }
+]
